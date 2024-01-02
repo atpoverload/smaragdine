@@ -1,0 +1,6 @@
+grpcio==1.60.0
+numpy==1.26.2
+pandas==2.1.4
+six==1.16.0
+tensorflow==2.15.0.post1
+psutil==5.9.7
